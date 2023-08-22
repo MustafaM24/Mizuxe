@@ -1,0 +1,48 @@
+/* 
+*{
+  margin: 0;
+  padding: 0;
+  background: rgb(0, 0, 0, 0.5) url("./BG3.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.Netflix-logo {
+  margin-left: 23px;
+  width: 140px;
+}
+
+.email-inp,
+  .password-inp {
+    width: 90vw;
+    background: #333 !important;
+  }
+  .container1 {
+    width: auto;
+    height: 540px;
+  }
+  .Netflix-logo {
+    margin-left: 23px;
+    width: 140px;
+  }
+  .signin-head {
+    text-align: left;
+  }
+  .help-section {
+    padding: 10px;
+    justify-content: space-between;
+  }
+  .new-to-netflix {
+    padding: 10px;
+    margin-left: 0px;
+  }
+  .signin-button {
+    width: 92vw;
+    background-color: #e50914 !important;
+  }
+  .error-message {
+    margin-left: 10px;
+  }
+ */
