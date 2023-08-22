@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mizuxe/static/css/main.5e3efe4a.css",
+    "main.js": "/Mizuxe/static/js/main.a90b1aa2.js",
+    "index.html": "/Mizuxe/index.html",
+    "main.5e3efe4a.css.map": "/Mizuxe/static/css/main.5e3efe4a.css.map",
+    "main.a90b1aa2.js.map": "/Mizuxe/static/js/main.a90b1aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3efe4a.css",
+    "static/js/main.a90b1aa2.js"
+  ]
+}
